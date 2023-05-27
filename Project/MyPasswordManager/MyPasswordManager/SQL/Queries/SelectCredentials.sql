@@ -1,0 +1,1 @@
+﻿SELECT * FROM Credentials ORDER BY Username;

@@ -1,0 +1,1 @@
+﻿INSERT INTO Credentials (Source, Username, PasswordHash) VALUES (@source, @username, @passhash);

@@ -1,0 +1,1 @@
+﻿UPDATE Credentials SET Source = @source, Username = @username, PasswordHash = @passHash WHERE ID = @id;
